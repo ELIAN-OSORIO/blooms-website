@@ -1,0 +1,104 @@
+# Translation of Plugins - Converter for Media &#8211; Optimize images | Convert WebP &amp; AVIF - Stable (latest release) in Spanish (Mexico)
+# This file is distributed under the same license as the Plugins - Converter for Media &#8211; Optimize images | Convert WebP &amp; AVIF - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-30 14:09:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.1.0\n"
+"Language: es_MX\n"
+"Project-Id-Version: Plugins - Converter for Media &#8211; Optimize images | Convert WebP &amp; AVIF - Stable (latest release)\n"
+
+#. translators: %1$s: open strong tag, %2$s: close strong tag, %3$s: errors
+#. codes
+#: templates/components/widgets/errors.php:36
+msgid "%1$sError codes:%2$s %3$s"
+msgstr "%1$sCódigos de error:%2$s %3$s"
+
+#. translators: %1$s: open anchor tag, %2$s: close anchor tag
+#: src/Plugin/PluginLinksGenerator.php:78
+msgid "%1$sSettings%2$s"
+msgstr "%1$sAjustes%2$s"
+
+#: src/Settings/Option/LoaderTypeOption.php:42
+msgid "Image loading mode"
+msgstr "Modo de carga de la imagen"
+
+#: src/Settings/Option/LoaderTypeOption.php:73
+msgid "via .htaccess"
+msgstr "a través del archivo \".htaccess\""
+
+#: templates/components/widgets/about.php:28
+msgid "The plugin in default loading mode (via .htaccess) does not change file URLs, so there are no problems with saving the page to the cache and the page generation time does not increase."
+msgstr "En el modo de carga predeterminado (a través del archivo \".htaccess\"), el plugin no cambia las URL del archivo, por lo que no hay problemas al guardar la página en la caché y no aumenta el tiempo de generación de la página."
+
+#: src/Service/DeactivationModalLoader.php:113
+msgid "This plugin broke my website"
+msgstr "El plugin ha roto mi web"
+
+#: src/Service/DeactivationModalLoader.php:123
+msgid "What exactly happened?"
+msgstr "¿Qué ha ocurrido exactamente?"
+
+#: src/Service/DeactivationModalLoader.php:130
+msgid "I found a better plugin"
+msgstr "He encontrado un plugin mejor"
+
+#: src/Service/DeactivationModalLoader.php:139
+msgid "This is a temporary deactivation"
+msgstr "Es una desactivación temporal"
+
+#: src/Service/DeactivationModalLoader.php:148
+msgid "Other reason"
+msgstr "Otra razón"
+
+#: src/Service/DeactivationModalLoader.php:60
+msgid "Submit and Deactivate"
+msgstr "Enviar y desactivar"
+
+#: src/Service/DeactivationModalLoader.php:61
+msgid "Skip and Deactivate"
+msgstr "Saltar y desactivar"
+
+#: src/Service/DeactivationModalLoader.php:72
+#: templates/components/widgets/errors.php:19
+msgid "Server configuration error"
+msgstr "Error de configuración del servidor"
+
+#. translators: %s: loader type
+#: src/Settings/Option/LoaderTypeOption.php:72
+msgid "%s (recommended)"
+msgstr "%s (recomendado)"
+
+#: src/Settings/Option/ConversionMethodOption.php:52
+msgid "Conversion method"
+msgstr "Método de conversión"
+
+#: templates/views/settings.php:51
+msgid "Changes were successfully saved!"
+msgstr "¡Los cambios se han guardado correctamente!"
+
+#: templates/components/widgets/options.php:50
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: src/Service/WpCliManager.php:166
+#: templates/components/widgets/regenerate.php:184
+msgid "The process was completed successfully. Your images have been converted!"
+msgstr "El proceso se ha completado correctamente. ¡Tus imágenes se han convertido!"
+
+#. translators: %s progress value
+#: src/Service/WpCliManager.php:173
+#: templates/components/widgets/regenerate.php:159
+msgid "Saving the weight of your images: %s"
+msgstr "Ahorrando en el peso de tus imágenes: %s"
+
+#: templates/components/widgets/support.php:17
+msgid "We are waiting for your message"
+msgstr "Estamos esperando por tu mensaje"
+
+#: src/Settings/Option/ExtraFeaturesOption.php:42
+msgid "Extra features"
+msgstr "Funcionalidades adicionales"
