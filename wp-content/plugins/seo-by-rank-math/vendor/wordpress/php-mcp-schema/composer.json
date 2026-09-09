@@ -14,7 +14,7 @@
     "authors": [
         {
             "name": "WordPress",
-            "homepage": "https://wordpress.org"
+            "homepage": "https://wordpress.org/"
         }
     ],
     "require": {

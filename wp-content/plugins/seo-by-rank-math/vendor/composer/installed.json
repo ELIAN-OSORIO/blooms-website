@@ -89,7 +89,7 @@
                 {
                     "name": "Justin Sternberg",
                     "email": "justin@dsgnwrks.pro",
-                    "homepage": "https://dsgnwrks.pro",
+                    "homepage": "https://dsgnwrks.pro/",
                     "role": "Developer"
                 },
                 {
@@ -156,7 +156,7 @@
                 {
                     "name": "Jesse G. Donat",
                     "email": "donatj@gmail.com",
-                    "homepage": "https://donatstudios.com",
+                    "homepage": "https://donatstudios.com/",
                     "role": "Developer"
                 }
             ],
@@ -351,7 +351,7 @@
             "authors": [
                 {
                     "name": "WordPress",
-                    "homepage": "https://wordpress.org"
+                    "homepage": "https://wordpress.org/"
                 }
             ],
             "description": "PHP DTOs for the Model Context Protocol (MCP) specification",
